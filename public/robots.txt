@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://attendance-264w.vercel.app/sitemap.xml
