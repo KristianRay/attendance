@@ -50,7 +50,7 @@ Designed and developed by **Zirk**
 | GitHub    | [KristianRay](https://github.com/KristianRay) |
 | Discord   | [Zirk](https://discord.com/users/747803789901168770) |
 | Portfolio | `placeholder` *(update when available)* |
-| Twitter/X | `placeholder` *(update when available)* |
+| Twitter/X | [Zirk](https://x.com/ggzirky) |
 
 ---
 
