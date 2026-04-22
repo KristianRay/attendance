@@ -50,6 +50,8 @@ export default function ActivitiesPage() {
                 loop
                 playsInline
                 disablePictureInPicture
+                controlsList="nodownload nofullscreen"
+                onContextMenu={(e) => e.preventDefault()}
               >
                 <source src={item.video} type="video/mp4" />
               </video>

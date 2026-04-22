@@ -18,7 +18,9 @@ export default function App() {
           loop
           playsInline
           disablePictureInPicture
+          controlsList="nodownload nofullscreen"
           preload="auto"
+          onContextMenu={(e) => e.preventDefault()}
         >
           <source src={backdropVideo} type="video/mp4" />
         </video>
