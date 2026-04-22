@@ -2,7 +2,7 @@
 
 A website for the **Attendance** Discord community server. Built for gamers and friends who want a fun and welcoming space to connect, play, and hang out.
 
-🔗 **Live Demo:** `https://yourdomain.com` *(replace when deployed)*
+🔗 **Live Demo:** [attendance-264w.vercel.app](https://attendance-264w.vercel.app)
 
 ---
 
