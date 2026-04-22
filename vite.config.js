@@ -6,9 +6,9 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom', 'react-router-dom'],
-          icons: ['react-icons'],
+        manualChunks: (id) => {
+          if (id.includes('node_modules/react-icons')) return 'icons';
+          if (id.includes('node_modules')) return 'vendor';
         },
         assetFileNames: 'assets/[name].[hash][extname]',
         chunkFileNames: 'assets/[name].[hash].js',
