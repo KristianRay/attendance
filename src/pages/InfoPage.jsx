@@ -31,7 +31,7 @@ const members = [
   {
     name: "KAZUMI",
     img: mjImg,
-    desc: "Web developer and designer...",
+    desc: "Julsyy | Fake Developer | Apat paa ang anak | Yung SL ginagawang play time | Sanay na ma headshot | Lowkey | Papindot ng accept thanks",
     discord: "https://discord.com/users/838351905846853663"
   },
   {
