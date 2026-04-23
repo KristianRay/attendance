@@ -2,6 +2,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import competitiveImg from "./assets/fps.webp";
 import fpsImg from "./assets/competitive.jpg";
+import hangoutsImg from "./assets/hangouts.png";
+import squadImg from "./assets/squad.png";
 const backdropVideo = "https://res.cloudinary.com/dcbhg0ztu/video/upload/v1776827251/backdrop_iptusq.mp4";
 import "./App.css";
 
@@ -42,7 +44,7 @@ export default function App() {
         </div>
 
         <div className="card">
-          <div className="card-inner" />
+          <div className="card-inner" style={{backgroundImage: `url(${hangoutsImg})`, backgroundSize: 'cover', backgroundPosition: 'center'}} />
           <p>Hangouts</p>
         </div>
 
@@ -52,8 +54,8 @@ export default function App() {
         </div>
 
         <div className="card">
-          <div className="card-inner" style={{backgroundImage: `url(${fpsImg})`, backgroundSize: 'cover', backgroundPosition: 'center'}} />
-          <p>Fps Gaming</p>
+          <div className="card-inner" style={{backgroundImage: `url(${squadImg})`, backgroundSize: 'cover', backgroundPosition: 'center'}} />
+          <p>Squad Up</p>
         </div>
       </section>
 
