@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 import logo3d from "../assets/logo3d.png";
 import { FaDiscord } from "react-icons/fa";
 import modgeImg from "../assets/members/modge.png";
-import mjImg from "../assets/members/mj.png";
+import mjImg from "../assets/members/mj.jpg";
 import yeahgImg from "../assets/members/yeahg.png";
 import jeahImg from "../assets/members/jeah.png";
 import zirkImg from "../assets/members/zirk.png";
