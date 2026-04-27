@@ -49,7 +49,7 @@ Designed and developed by **Zirk**
 |-----------|------|
 | GitHub    | [KristianRay](https://github.com/KristianRay) |
 | Discord   | [Zirk](https://discord.com/users/747803789901168770) |
-| Portfolio | `placeholder` *(update when available)* |
+| Portfolio | [Kristian Ray Portfolio](https://kristianrayportfolio.vercel.app/) |
 | Twitter/X | [Zirk](https://x.com/ggzirky) |
 
 ---
